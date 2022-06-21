@@ -2,13 +2,13 @@
   "geometry": "skinpacks/skins.json",
   "skins": [
 	{
-      "localization_name": "Jim",
+      "localization_name": "yellow steve",
       "geometry": "geometry.humanoid.custom",
       "texture": "Jim-MK5.png",
       "type": "free"
     },
 	{
-      "localization_name": "Kate",
+      "localization_name": "crane",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "Kate-MK5.png",
       "type": "free"
