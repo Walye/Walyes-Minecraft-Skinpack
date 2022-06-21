@@ -1,0 +1,19 @@
+{
+  "geometry": "skinpacks/skins.json",
+  "skins": [
+	{
+      "localization_name": "Jim",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Jim-MK5.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Kate",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Kate-MK5.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Custom Skins Example",
+  "localization_name": "Custom Skins Example"
+}
