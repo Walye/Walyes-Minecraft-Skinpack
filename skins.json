@@ -15,7 +15,7 @@
     },
 	{
       "localization_name": "walye",
-      "geometry": "geometry.humanoid.custom",
+      "geometry": "geometry.humanoid.customSlim",
       "texture": "2022_06_19_ayo-crane-with-no-scarf-20456926 (1).png",
       "type": "free"
     },
