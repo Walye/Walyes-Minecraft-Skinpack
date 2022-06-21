@@ -4,7 +4,7 @@
 	{
       "localization_name": "yellow steve",
       "geometry": "geometry.humanoid.custom",
-      "texture": "Jim-MK5.png",
+      "texture": "Steve.png",
       "type": "free"
     },
 	{
