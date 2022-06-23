@@ -8,6 +8,12 @@
       "type": "free"
     },
 	{
+      "localization_name": "crane new",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "3.png",
+      "type": "free"
+    },
+	{
       "localization_name": "drip",
       "geometry": "geometry.humanoid.custom",
       "texture": "11cbcd2b58d4afbd.png",
@@ -20,7 +26,7 @@
       "type": "free"
     },
 	{
-      "localization_name": "crane",
+      "localization_name": "crane old",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "Kate-MK5.png",
       "type": "free"
