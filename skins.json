@@ -8,12 +8,6 @@
       "type": "free"
     },
 	{
-      "localization_name": "yellow steve normal",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "steve.png",
-      "type": "free"
-    },
-	{
       "localization_name": "crane new",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "3.png",
