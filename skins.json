@@ -8,6 +8,18 @@
       "type": "free"
     },
 	{
+      "localization_name": "big g",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "big g.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "walye x big g",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "walye x big g.png",
+      "type": "free"
+    },
+	{
       "localization_name": "walye match",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "walye.png",
