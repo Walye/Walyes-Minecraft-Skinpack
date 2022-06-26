@@ -8,6 +8,12 @@
       "type": "free"
     },
 	{
+      "localization_name": "walye match",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "walye.png",
+      "type": "free"
+    },
+	{
       "localization_name": "crane new",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "3.png",
