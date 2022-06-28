@@ -8,6 +8,18 @@
       "type": "free"
     },
 	{
+      "localization_name": "funni",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "walye (1).png",
+      "type": "free"
+    },
+	{
+      "localization_name": "sahahsws",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "e4164ef64b9b273a.png",
+      "type": "free"
+    },
+	{
       "localization_name": "big g",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "big g.png",
