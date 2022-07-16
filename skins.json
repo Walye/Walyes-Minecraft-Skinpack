@@ -7,26 +7,31 @@
       "texture": "Steve.png",
       "type": "free"
     },
+	{
       "localization_name": "walye maid",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "maid.png",
       "type": "free"
     },
+	{
       "localization_name": "naked",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "walye nude.png",
       "type": "free"
     },
+	{
       "localization_name": "pants",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "walye strip.png",
       "type": "free"
     },
+	{
       "localization_name": "walls",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "wally.png",
       "type": "free"
     },
+	{
       "localization_name": "egirl",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "egirl.png",
