@@ -7,6 +7,11 @@
       "texture": "Steve.png",
       "type": "free"
     },
+      "localization_name": "walye maid",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "maid.png",
+      "type": "free"
+    },
       "localization_name": "naked",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "walye nude.png",
